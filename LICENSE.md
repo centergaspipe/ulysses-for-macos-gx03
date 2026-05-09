@@ -1,4 +1,4 @@
-
+Enhance Ulysses for macOS with Ulysses for macOS secure Tool: collaboration & dark mode, the #1 tool. Includes collaboration and dark mode for a smoother experience.
 
 
 
